@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "979323186164",
+    "firebase_url": "https://jackthedamn-58da9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "jackthedamn-58da9",
+    "storage_bucket": "jackthedamn-58da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979323186164:android:9adeaa4aa99e698cef67a1",
+        "android_client_info": {
+          "package_name": "com.example.jackthedamn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAw6g5G-tSLwS7sY-ArAtzufgnl97-nGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979323186164:android:a95daeff408a59e4ef67a1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAw6g5G-tSLwS7sY-ArAtzufgnl97-nGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
